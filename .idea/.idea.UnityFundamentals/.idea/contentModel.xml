@@ -36,6 +36,7 @@
           <e p="MouseManager.cs" t="Include" />
           <e p="NPCController.cs" t="Include" />
           <e p="PlayerController.cs" t="Include" />
+          <e p="SceeneSwitcher.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Examples &amp; Extras" t="Include">
